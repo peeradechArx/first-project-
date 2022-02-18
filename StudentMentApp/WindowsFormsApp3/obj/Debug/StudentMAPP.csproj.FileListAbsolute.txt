@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\StudentMAPP.csprojAssemblyReference.cache
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\StudentMapp.Form1.resources
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\StudentMAPP.csproj.GenerateResource.cache
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\StudentMAPP.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\asus\source\repos\StudentMentApp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
